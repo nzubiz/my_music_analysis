@@ -1,0 +1,6 @@
+Add Tasks for project
+
+1. Add/Modify files
+2. git add (specify files)
+3. git commit -m "Add note"
+4. git push
